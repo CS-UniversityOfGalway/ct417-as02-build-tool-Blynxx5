@@ -1,4 +1,4 @@
-package classes;
+package main.java.classes;
 
 // This is the media sub-class
 public class Book extends Media {

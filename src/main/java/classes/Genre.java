@@ -1,4 +1,4 @@
-package classes;
+package main.java.classes;
 
 // Abstract class Genre
 abstract class Genre {

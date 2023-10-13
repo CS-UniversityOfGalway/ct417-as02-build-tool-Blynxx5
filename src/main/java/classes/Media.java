@@ -1,4 +1,4 @@
-package classes;
+package main.java.classes;
 
 // Superclass Media
 public class Media {
