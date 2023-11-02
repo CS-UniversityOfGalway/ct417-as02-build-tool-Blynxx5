@@ -1,4 +1,4 @@
-package classes;
+package main.java.classes;
 
 // This is the genre sub-class
 public class Fantasy extends Genre {
